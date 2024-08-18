@@ -1,0 +1,20 @@
+/* General */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Search-box section */
+.search-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 20px;
+}
+.character-name {
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    text-align: center;
+    outline: none;
+}
